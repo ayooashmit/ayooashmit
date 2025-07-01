@@ -12,7 +12,7 @@ Welcome to my corner of the internet where data meets curiosity and ideas come t
 
 ## 🔍 What I Do
 
-- **Data Analysis & Visualization** – Transforming raw datasets into actionable insights using Python, SQL, Power BI, and Tableau.
+- **Data Analysis & Visualization** – Transforming raw datasets into actionable insights using Python, SQL, and Tableau.
 - **Machine Learning & Predictive Modeling** – Building and deploying models that learn from data and help businesses make smarter decisions.
 - **Generative AI & NLP** – Experimenting with LLMs, embeddings, vector databases, and retrieval-augmented generation (RAG) systems.
 - **End-to-End Projects** – From data wrangling to model deployment, I enjoy working across the full data lifecycle.
@@ -44,6 +44,6 @@ Welcome to my corner of the internet where data meets curiosity and ideas come t
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/your-link/)
-[![Email](https://img.shields.io/badge/Email-me-red?style=flat&logo=gmail&labelColor=red)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ashmit-pramanik-a76547245/)
+[![Email](https://img.shields.io/badge/Email-me-red?style=flat&logo=gmail&labelColor=red)](mailto:ashmitpramanik09@gmail.com)
 
