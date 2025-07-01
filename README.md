@@ -4,12 +4,6 @@
 
 ---
 
-Welcome to my corner of the internet where data meets curiosity and ideas come to life through code.
-
-💡 I'm passionate about turning **complex data into clear insights** and **models into real-world impact**. From dashboards to deep learning, I enjoy exploring problems at the intersection of statistics, technology, and storytelling.
-
----
-
 ## 🔍 What I Do
 
 - **Data Analysis & Visualization** – Transforming raw datasets into actionable insights using Python, SQL, and Tableau.
